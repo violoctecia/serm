@@ -465,6 +465,7 @@ header {
   section.hero {
     .bg-top {
       left: 30%;
+      bottom: -55px;
       transform: translateX(-30%);
     }
 
@@ -488,7 +489,7 @@ header {
             margin: 0 auto;
             max-width: 339px;
             width: 100%;
-            padding: 33px 33px 150px;
+            padding: 33px 33px 130px;
 
             .message.second {
               .bg {
